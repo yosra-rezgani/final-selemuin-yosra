@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="final-selinuim-yosra" />
+        <module name="poei-2023-04-luis" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="final-selinuim-yosra" target="20" />
+    </bytecodeTargetLevel>
   </component>
 </project>
